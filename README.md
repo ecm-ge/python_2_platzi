@@ -1,3 +1,7 @@
-# Steps
+# Game Project
 
-Este es mi repo para el segundo nivel de python
+Para ejecutarlo debes hacer lo siguiente.
+
+```sh
+* cd Game
+* python3 main.py
